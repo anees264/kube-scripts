@@ -1,6 +1,6 @@
 # kube-scripts
 
-This repository contains scripts I created over time to help me manage my day-to-day tasks in kubernetes.
+This repository contains scripts I've created over time to help me manage my day-to-day tasks in kubernetes.
 
 ## Resource Usage
 
